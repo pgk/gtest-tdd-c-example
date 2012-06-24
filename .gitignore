@@ -1,0 +1,5 @@
+*.o
+*.a
+gtest-1.6.0
+.DS_Store
+stack_test
